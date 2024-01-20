@@ -1,11 +1,11 @@
-# coss-testnet-1
-> This is coss testnet chain
+# coss-1
+> This is coss mainnet chain
 
 > GENESIS PUBLISHED
 
 > PEERS PUBLISHED
 
-1st testnet for coss-inscription/coss application.
+mainnet for coss-inscription/coss application.
 
 ## Create fullnode
 
