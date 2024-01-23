@@ -31,7 +31,7 @@ cossd init {{NODE_NAME}}
 
 * Copy below value as `minimum-gas-prices` in ${HOME}/.coss/config/app.toml
 ```shell
-0.025ucgas,0.025ucoss
+0.025ucgas,0.025ucoss,0.025ucias
 ```
 
 * Start coss by running below command or create a `systemd` service to run coss in background.
